@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+* {
+  font-family: "Roboto";
+}
+.loc {
+  display: flex;
+  align-items: center;
+}
+.ubicacion {
+  margin-left: 8px;
+  margin-top: 17px;
+}
+
+.precios {
+  text-align: end;
+}
+
+.destacado {
+  margin-left: 10px;
+  font-size: large;
+  font-weight: 600;
+  color: green;
+}

@@ -1,0 +1,50 @@
+#Hero-Section {
+  background-image: url("../img/bg-code.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.formacion {
+  display: flex;
+  align-items: center;
+  padding-top: 76px;
+  padding-bottom: 66px;
+  justify-content: space-around;
+  background-color: rgb(57, 64, 71);
+}
+.texto {
+  width: 475px;
+  height: 470px;
+  margin-right: 53px;
+  padding: 30px;
+  background-color: rgb(13, 47, 75);
+}
+
+.proyectos {
+  background-color: rgb(13, 47, 75);
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 40px;
+  padding-bottom: 100px;
+}
+
+.proyecto {
+  width: 475px;
+  height: 470px;
+}
+
+.proyecto2 {
+  width: 475px;
+  height: 470px;
+}
+
+.fila2 {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.titulo {
+  text-align: center;
+}
